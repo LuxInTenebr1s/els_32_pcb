@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "els_32-libs")(type "KiCad")(uri "${KIPRJMOD}/els_32-libs")(options "")(descr ""))
+)
