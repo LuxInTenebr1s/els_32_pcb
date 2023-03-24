@@ -1,6 +1,4 @@
 (sym_lib_table
-  (lib (name "Espressif")(type "KiCad")(uri "/home/lux/git/esp-stuff/kicad6-libs/kicad-libraries/libraries/Espressif.kicad_sym")(options "")(descr ""))
-  (lib (name "HR911105A")(type "KiCad")(uri "/home/lux/Downloads/tmp/LIB_HR911105A/HR911105A/KiCad/HR911105A.kicad_sym")(options "")(descr ""))
-  (lib (name "MP2307")(type "KiCad")(uri "${KIPRJMOD}/els_32-libs/MP2307.kicad_sym")(options "")(descr ""))
-  (lib (name "LM3940")(type "KiCad")(uri "${KIPRJMOD}/els_32-libs/LM3940.kicad_sym")(options "")(descr ""))
+  (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/els_32-libs/Espressif.kicad_sym")(options "")(descr ""))
+  (lib (name "HR911105A")(type "KiCad")(uri "${KIPRJMOD}/els_32-libs/HR911105A.kicad_sym")(options "")(descr ""))
 )
